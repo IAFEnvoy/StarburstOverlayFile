@@ -1,0 +1,26 @@
+{
+    "guild":[
+        {
+            "_id":"643809718ea8c97beea09564",
+            "meme_num":20,
+            "reason":["hacker","rude"]
+        }
+    ],
+    "player":[
+        {
+            "uuid":"37f5716e87f64c238564edce685d5b5",
+            "meme_num":1,
+            "reason":["hacker","steal_account"]
+        },
+        {
+            "uuid":"70a47181b1ba4bda88b4d9abbcef90c4",
+            "meme_num":2,
+            "reason":["rude"]
+        },
+        {
+            "uuid":"25e9707ded3d4c35b825d9ed47fb84f5",
+            "meme_num":3,
+            "reason":["rude"]
+        }
+    ]
+}
